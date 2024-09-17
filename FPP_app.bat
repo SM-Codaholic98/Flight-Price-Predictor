@@ -1,3 +1,3 @@
-cd D:\EDA\FlightPrice_Predictor v1.0
+cd D:\Predictor_Applications v1.2\FlightPrice_Predictor v1.2
 python FPP_app.py
 pause
